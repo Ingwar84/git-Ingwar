@@ -9,5 +9,10 @@ Let's do something new.
 We're free people this time
 The power of faith is always with us!
 
+<<<<<<< HEAD
 So what?
 All you ready?
+=======
+
+So what?
+>>>>>>> 91db37628c0654c2925fb0428bc3db2532e82513
